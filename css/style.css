@@ -132,6 +132,22 @@ header h1 span {
 }
 
 /*======================================
+*       Notification Section           *
+======================================*/
+
+#notification {
+    height: 250px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    background-color: #F8FFFB;
+}
+
+#notification button {
+    margin-top: 10px;
+    width: 100%;
+}
+
+/*======================================
 *          Footer Section              *
 ======================================*/
 
