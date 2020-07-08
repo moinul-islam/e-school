@@ -1,0 +1,29 @@
+@media (max-width: 767px) {
+    .icon-card {
+        margin-bottom: 20px;
+    }
+    .icon-card-responsive {
+        margin-top: 100px;
+    }
+    header .row {
+        padding-top: 20px;
+    }
+    header {
+        margin-bottom: 0;
+    }
+    .testimonial {
+        width: 100%;
+    }
+    .testimonial p {
+        margin: 20px 0 0 0;
+    }
+}
+
+@media (max-width: 991px) {
+    .testimonial {
+        width: 100%;
+    }
+    .testimonial p {
+        margin: 20px 0 0 20px;
+    }
+}

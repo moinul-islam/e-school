@@ -1,0 +1,160 @@
+/*======================================
+*            Global CSS                *
+======================================*/
+
+section, header {
+    margin-bottom: 100px;
+}
+
+.sub-heading {
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 50px;
+    color: #413960;
+}
+
+/*======================================
+*            Navacation Bar            *
+======================================*/
+
+.bg-green {
+    background-color: #F0FFF0;
+}
+
+.logo {
+    width: 150px;
+}
+
+.signIn-btn {
+    padding: 8px 28px;
+    background-color: #21B573;
+    border-radius: 33px;
+    color: #fff;
+    border: 0;
+}
+
+/*======================================
+*            Header Section            *
+======================================*/
+
+header {
+    height: 576px;
+    background-color: #F0FFF0;
+}
+
+header .row {
+    padding-top: 120px;
+}
+
+.learn {
+    color: #FD511A;
+}
+
+header h1 {
+    font-weight: 700;
+}
+
+header h1 span {
+    color: #21B573;
+}
+
+.hero-text {
+    color: #6C6B6B;
+    padding: 20px 0;
+}
+
+.illustration-img {
+    width: 100%;
+}
+
+/*======================================
+*            Section ICON              *
+======================================*/
+
+.card {
+    border-radius: 20px;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border: 0;
+}
+
+.icon-card {
+    background-color: #F8FFFB;
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px;
+    color: #413960;
+}
+
+.icon-card-highlight {
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.icon {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 30px;
+}
+
+/*======================================
+*            Subject Section           *
+======================================*/
+
+.card-img-top {
+    padding: 20px;
+}
+
+.card-icon {
+    width: 20px;
+    float: left;
+    margin-right: 5px;
+}
+
+.card-footer-icon {
+    margin-top: 20px;
+}
+
+/*======================================
+*          Section Testimonial         *
+======================================*/
+
+.testimonial {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.testimonial img {
+    height: 120px;
+}
+
+.testimonial p {
+    margin: 22px 0 0 20px;
+}
+
+/*======================================
+*          Footer Section              *
+======================================*/
+
+footer {
+    background-color: #282531;
+    color: #fff;
+    padding: 50px 0;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer ul li {
+    margin-bottom: 10px;
+}
+
+footer li:first-child {
+    font-weight: 700;
+}
+
+.copyright {
+    color: #CDCDCD;
+    text-align: center;
+    margin-top: 50px;
+}
